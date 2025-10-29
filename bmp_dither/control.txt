@@ -1,1 +1,1 @@
-message|WELCOME
+dual
